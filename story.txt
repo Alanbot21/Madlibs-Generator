@@ -1,0 +1,1 @@
+I was writing code for my new app, "(1. App Name)." Suddenly, a bug appeared! Every time I pressed (2. Key on Keyboard), the screen showed (3. Error name ) instead of text. My friend (4. Name) said to debug it using (5. Object). It worked!
